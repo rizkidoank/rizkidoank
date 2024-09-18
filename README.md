@@ -5,8 +5,7 @@
 - I am interested in Agriculture 👨‍🌾, Fisheries 🐟 and Education 🏫.
   - Have a big dream to give contributions in above areas
   - I am open for discussion, and collaboration in mentioned areas
-- Currently living at Singapore. But, I miss Indonesia already 🇮🇩
-- I'm open for new opportunity early 2024, will be in 🇮🇩 and prefer remote.
+- Ready to explore other places! I'm open to relocate or remote work!
 
 ## Contact Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/rizkidoank/)
