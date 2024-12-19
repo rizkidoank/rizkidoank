@@ -1,5 +1,6 @@
 ## Profile
 - My name is Rizki (@rizkidoank) 👨‍👩‍👦‍👦.
+- Currently freelancing in DevOps / Cloud / Platform area.
 - Most of my professional experiences are mostly as Software Engineer in Cloud Infrastructure.
   - DevOps, Cloud Infrastructure, Data Infrastructure, Tech Lead 💻
 - I am interested in Agriculture 👨‍🌾, Fisheries 🐟 and Education 🏫.
