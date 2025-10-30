@@ -72,6 +72,7 @@ async function updateReadme(): Promise<void> {
     fs.writeFileSync(README_FILE_PATH, updatedReadme);
     console.log("README.md updated successfully.");
   }
+  process.exit(0);
 }
 
 updateReadme().catch((err) => {
