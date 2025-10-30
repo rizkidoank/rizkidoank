@@ -81,7 +81,7 @@ async function updateBlogPosts(readmeContent: string): Promise<string> {
       (item: { title: any; link: any }) => `- [${item.title!}](${item.link!})`
     )
     .join("\n");
-  const newContent = `Recent Blog Posts:\n${postList}`;
+  const newContent = `${postList}`;
 
   console.log("--- END: Blog Posts Updated ---");
   return updateReadmeBlock(
