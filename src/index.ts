@@ -3,8 +3,8 @@ import Parser from 'rss-parser';
 
 const README_FILE_PATH='README.md';
 const RSS_FEED_URL = "https://rizkidoank.com/index.xml";
-const START_TAG = "<blog>";
-const END_TAG = "</blog>";
+const START_TAG = "<!-- BLOG START -->";
+const END_TAG = "<!-- BLOG END -->";
 const MAX_POSTS = 5;
 
 interface BlogPost {
