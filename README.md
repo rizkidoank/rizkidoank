@@ -14,7 +14,6 @@
 
 ## Recent Blog Posts
 <!-- BLOG START -->
-Recent Blog Posts:
 - [Building Poor-man Homelab to Learn AI and MLOps](https://rizkidoank.com/2025/09/24/building-poor-man-homelab-to-learn-ai-and-mlops/)
 - [NixOS Declarative Approach for Operating System Management](https://rizkidoank.com/2024/12/19/nixos-declarative-approach-for-operating-system-management/)
 - [Bulding Docker Image with Cloud Builder](https://rizkidoank.com/2024/09/23/bulding-docker-image-with-cloud-builder/)
