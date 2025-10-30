@@ -1,0 +1,43 @@
+name: Update Profile
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-blog-posts:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write 
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 10
+          run_install: false
+
+      - name: Install Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'pnpm'
+
+      - name: Install dependencies
+        run: pnpm install
+      
+      - name: Compile TypeScript to JavaScript
+        run: npx tsc 
+
+      - name: Run the compiled script to update README
+        run: node dist/index.js
+
+      - name: Commit changes if README.md was updated
+        uses: stefanzweifel/git-auto-commit-action@v7
+        with:
+          commit_message: "🤖 Feat: Update the Github Profile"
+          files: README.md

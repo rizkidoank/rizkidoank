@@ -11,3 +11,12 @@
 ## Contact Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/rizkidoank/)
 - 🕸️ [Website](https://www.rizkidoank.com/)
+
+## Recent Blog Posts
+<blog>
+- [Building Poor-man Homelab to Learn AI and MLOps](https://rizkidoank.com/2025/09/24/building-poor-man-homelab-to-learn-ai-and-mlops/)
+- [NixOS Declarative Approach for Operating System Management](https://rizkidoank.com/2024/12/19/nixos-declarative-approach-for-operating-system-management/)
+- [Bulding Docker Image with Cloud Builder](https://rizkidoank.com/2024/09/23/bulding-docker-image-with-cloud-builder/)
+- [Ressurection of My Homelab](https://rizkidoank.com/2024/09/20/ressurection-of-my-homelab/)
+- [Cache Terraform Provider Plugins](https://rizkidoank.com/2024/02/27/cache-terraform-provider-plugins/)
+</blog>
