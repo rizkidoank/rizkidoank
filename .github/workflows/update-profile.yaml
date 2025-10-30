@@ -1,4 +1,4 @@
-name: Update Profile
+name: Daily Profile Update
 
 on:
   schedule:
