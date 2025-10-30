@@ -24,5 +24,5 @@ Recent Blog Posts:
 
 ## Today Quote
 <!-- QUOTE START -->
-> "Muddy water is best cleared by leaving it alone." - **Alan Watts**
+> "Everyone has a sense of humor. If you don't laugh at jokes, you probably laugh at opinions." - **Criss Jami**
 <!-- QUOTE END -->
