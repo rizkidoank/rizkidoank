@@ -23,5 +23,5 @@
 
 ## Today Quote
 <!-- QUOTE START -->
-> "Everyone has a sense of humor. If you don't laugh at jokes, you probably laugh at opinions." - **Criss Jami**
+> "Don't look back - you're not going that way." - **Mary Engelbreit**
 <!-- QUOTE END -->
