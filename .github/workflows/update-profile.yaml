@@ -9,7 +9,7 @@ jobs:
   update-blog-posts:
     runs-on: ubuntu-latest
     permissions:
-      contents: write 
+      contents: write
 
     steps:
       - name: Checkout repository
@@ -35,6 +35,7 @@ jobs:
       - name: Run the compiled script to update README
         run: node dist/index.js
         env:
+          GH_USERNAME: ${{ vars.GH_USERNAME }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
 
       - name: Commit changes if README.md was updated
