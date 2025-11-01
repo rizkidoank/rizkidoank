@@ -23,5 +23,5 @@
 
 ## Today Quote
 <!-- QUOTE START -->
-> "Don't look back - you're not going that way." - **Mary Engelbreit**
+> "Blessed is he who expects nothing, for he shall be disappointed." - **Jonathan Swift**
 <!-- QUOTE END -->
