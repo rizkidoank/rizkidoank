@@ -34,6 +34,7 @@
 <!-- QUOTE END -->
 
 ## Languages Statistics in Github
+**Disclaimer**: Just for fun, it might not reflect my actual daily used languages.
 
 <!-- LANG START -->
 <!-- LANG END -->
