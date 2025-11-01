@@ -1,4 +1,5 @@
 ## Profile
+
 - My name is Rizki (@rizkidoank) 👨‍👩‍👦‍👦.
 - Currently freelancing in DevOps / Cloud / Platform area.
 - Most of my professional experiences are mostly as Software Engineer in Cloud Infrastructure.
@@ -9,11 +10,14 @@
 - Ready to explore other places! I'm open to relocate or remote work!
 
 ## Contact Me
+
 - 💼 [LinkedIn](https://www.linkedin.com/in/rizkidoank/)
 - 🕸️ [Website](https://www.rizkidoank.com/)
 
 ## Recent Blog Posts
+
 <!-- BLOG START -->
+
 - [Building Poor-man Homelab to Learn AI and MLOps](https://rizkidoank.com/2025/09/24/building-poor-man-homelab-to-learn-ai-and-mlops/)
 - [NixOS Declarative Approach for Operating System Management](https://rizkidoank.com/2024/12/19/nixos-declarative-approach-for-operating-system-management/)
 - [Bulding Docker Image with Cloud Builder](https://rizkidoank.com/2024/09/23/bulding-docker-image-with-cloud-builder/)
@@ -22,6 +26,14 @@
 <!-- BLOG END -->
 
 ## Today Quote
+
 <!-- QUOTE START -->
-> "Everyone has a sense of humor. If you don't laugh at jokes, you probably laugh at opinions." - **Criss Jami**
+
+> "It matters not what someone is born, but what they grow to be." - **Albus Dumbledore**
+
 <!-- QUOTE END -->
+
+## Languages Statistics in Github
+
+<!-- LANG START -->
+<!-- LANG END -->
