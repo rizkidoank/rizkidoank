@@ -130,8 +130,8 @@ async function updateDailyQuote(readmeContent: string): Promise<string> {
 }
 
 // Task 3 : Activities
-const GITHUB_USERNAME = process.env.GITHUB_USERNAME!;
-const octokit = new Octokit({ auth: process.env.GITHUB_TOKEN });
+const GH_USERNAME = process.env.GH_USERNAME!;
+const octokit = new Octokit({ auth: process.env.GH_TOKEN });
 
 async function fetchGithubActivities(): Promise<{
   languages: Record<string, number>;
@@ -181,7 +181,7 @@ async function fetchGithubActivities(): Promise<{
   const iterator = octokit.paginate.iterator(
     octokit.rest.activity.listEventsForAuthenticatedUser,
     {
-      username: process.env.GITHUB_USERNAME,
+      username: process.env.GH_USERNAME,
       per_page: 20,
     }
   );
@@ -198,7 +198,7 @@ async function fetchGithubActivities(): Promise<{
       const repoName = (event as any).repo.name;
       const [owner, repo] = repoName.split("/");
 
-      if (!owner || !repo || owner !== GITHUB_USERNAME) {
+      if (!owner || !repo || owner !== GH_USERNAME) {
         continue;
       }
 
