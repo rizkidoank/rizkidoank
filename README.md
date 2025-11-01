@@ -17,7 +17,6 @@
 ## Recent Blog Posts
 
 <!-- BLOG START -->
-
 - [Building Poor-man Homelab to Learn AI and MLOps](https://rizkidoank.com/2025/09/24/building-poor-man-homelab-to-learn-ai-and-mlops/)
 - [NixOS Declarative Approach for Operating System Management](https://rizkidoank.com/2024/12/19/nixos-declarative-approach-for-operating-system-management/)
 - [Bulding Docker Image with Cloud Builder](https://rizkidoank.com/2024/09/23/bulding-docker-image-with-cloud-builder/)
@@ -28,13 +27,29 @@
 ## Today Quote
 
 <!-- QUOTE START -->
-
-> "It matters not what someone is born, but what they grow to be." - **Albus Dumbledore**
-
+> "I enjoy life when things are happening. I don't care if it's good things or bad things. That means you're alive." - **Joan Rivers**
 <!-- QUOTE END -->
 
 ## Languages Statistics in Github
 **Disclaimer**: Just for fun, it might not reflect my actual daily used languages.
 
 <!-- LANG START -->
+|Language|Percentage|
+|---|---|
+| PHP | 78.98% |
+| JavaScript | 7.95% |
+| TypeScript | 3.03% |
+| HTML | 2.53% |
+| Java | 2.04% |
+| Python | 1.91% |
+| Nix | 1.81% |
+| TeX | 0.75% |
+| C++ | 0.72% |
+| HCL | 0.09% |
+| CSS | 0.07% |
+| Vue | 0.04% |
+| QMake | 0.03% |
+| ApacheConf | 0.03% |
+| CMake | 0.02% |
+| Shell | 0.00% |
 <!-- LANG END -->
