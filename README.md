@@ -21,7 +21,7 @@ I am a Senior DevOps Engineer with 8+ years of experience designing, migrating, 
 ## Today Quote
 
 <!-- QUOTE START -->
-> "The weak can never forgive. Forgiveness is the attribute of the strong." - **Mahatma Gandhi**
+> "To create more positive results in your life, replace 'if only' with 'next time'." - **Celestine Chua**
 <!-- QUOTE END -->
 
 ## Languages Statistics in Github
