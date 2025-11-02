@@ -40,6 +40,7 @@ jobs:
           RESUME_B64: ${{ vars.RESUME_B64 }}
           PROMPT_B64: ${{ vars.PROMPT_B64 }}
           DEFAULT_SUMMARY_B64: ${{ vars.DEFAULT_SUMMARY_B64 }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
 
 
       - name: Commit changes if README.md was updated
