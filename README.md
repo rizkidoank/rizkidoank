@@ -1,13 +1,7 @@
 ## Profile
-
-- My name is Rizki (@rizkidoank) 👨‍👩‍👦‍👦.
-- Currently freelancing in DevOps / Cloud / Platform area.
-- Most of my professional experiences are mostly as Software Engineer in Cloud Infrastructure.
-  - DevOps, Cloud Infrastructure, Data Infrastructure, Tech Lead 💻
-- I am interested in Agriculture 👨‍🌾, Fisheries 🐟 and Education 🏫.
-  - Have a big dream to give contributions in above areas
-  - I am open for discussion, and collaboration in mentioned areas
-- Ready to explore other places! I'm open to relocate or remote work!
+<!-- SUMMARY START -->
+I am a Senior DevOps Engineer with 8+ years of experience designing, migrating, and securing cloud systems on AWS, GCP, and Alicloud. Passionate about cloud-native automation and system optimization, I leverage my expertise in Kubernetes, Terraform, and CI/CD pipelines to drive efficiency and cost reduction. My recent focus includes exploring AI/ML infrastructure and declarative OS management.
+<!-- SUMMARY END -->
 
 ## Contact Me
 
@@ -27,7 +21,7 @@
 ## Today Quote
 
 <!-- QUOTE START -->
-> "I enjoy life when things are happening. I don't care if it's good things or bad things. That means you're alive." - **Joan Rivers**
+> "The weak can never forgive. Forgiveness is the attribute of the strong." - **Mahatma Gandhi**
 <!-- QUOTE END -->
 
 ## Languages Statistics in Github

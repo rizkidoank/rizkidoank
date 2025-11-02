@@ -1,5 +1,6 @@
 import * as fs from "fs";
 import { Gitlab } from "@gitbeaker/rest";
+import { GoogleGenAI } from "@google/genai";
 import { Octokit } from "octokit";
 import Parser from "rss-parser";
 
@@ -18,6 +19,10 @@ const QUOTE_END_TAG = "<!-- QUOTE END -->";
 
 const TOPLANG_START_TAG = "<!-- LANG START -->";
 const TOPLANG_END_TAG = "<!-- LANG END -->";
+
+const genAI = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY });
+const SUMMARY_START_TAG = "<!-- SUMMARY START -->";
+const SUMMARY_END_TAG = "<!-- SUMMARY END -->";
 
 interface BlogPost {
   title: string | undefined;
@@ -54,9 +59,7 @@ function updateReadmeBlock(
   return `${beforeBlock}${newBlock}${afterBlock}`;
 }
 
-// --- Task 1: Update Blog Posts ---
-async function updateBlogPosts(readmeContent: string): Promise<string> {
-  console.log("--- START: Updating Blog Posts ---");
+async function fetchBlogPosts(): Promise<[]> {
   const parser: Parser<any, BlogPost> = new Parser();
   let feed;
 
@@ -66,7 +69,7 @@ async function updateBlogPosts(readmeContent: string): Promise<string> {
     console.error(
       `Failed to fetch/parse RSS feed: ${(error as Error).message}`
     );
-    return readmeContent;
+    return [];
   }
 
   const recentPosts = feed.items
@@ -78,12 +81,20 @@ async function updateBlogPosts(readmeContent: string): Promise<string> {
 
   if (recentPosts.length === 0) {
     console.log("No valid posts found. Skipping blog update.");
-    return readmeContent;
+    return [];
   }
+
+  return recentPosts;
+}
+// --- Task 1: Update Blog Posts ---
+async function updateBlogPosts(readmeContent: string): Promise<string> {
+  console.log("--- START: Updating Blog Posts ---");
+  const recentPosts = await fetchBlogPosts();
 
   const postList = recentPosts
     .map(
-      (item: { title: any; link: any }) => `- [${item.title!}](${item.link!})`
+      (item: { title: string; link: string }) =>
+        `- [${item.title!}](${item.link!})`
     )
     .join("\n");
   const newContent = `${postList}`;
@@ -277,6 +288,73 @@ async function updateTopLanguages(readmeContent: string): Promise<string> {
   );
 }
 
+async function updateSummary(readmeContent: string): Promise<string> {
+  console.log("--- START: Updating Profile Summary ---");
+
+  let summaryContent: string = "";
+  const buffer = Buffer.from(process.env.RESUME_B64 as string, "base64");
+  const decodedResume = buffer.toString("utf-8");
+
+  const recentPosts = await fetchBlogPosts();
+  const postList = recentPosts
+    .map(
+      (item: { title: string; link: string }) =>
+        `- [${item.title!}](${item.link!})`
+    )
+    .join("\n");
+
+  const decodedPrompt = Buffer.from(
+    process.env.PROMPT_B64 as string,
+    "base64"
+  ).toString("utf-8");
+
+  const prompt = `
+  ${decodedPrompt}
+  
+  Input Data:
+  1. Resume (Markdown):
+    \`\`\`markdown
+    ${decodedResume}
+    \`\`\`
+  2. Recent Blog Posts:
+    \`\`\`
+  ${postList}
+    \`\`\`
+  `;
+
+  try {
+    const result: any = await genAI.models.generateContent({
+      model: "gemini-2.5-flash-lite",
+      contents: [{ role: "user", parts: [{ text: prompt }] }],
+      config: {
+        temperature: 0.5,
+        maxOutputTokens: 100,
+      },
+    });
+
+    const summary = result.text.replace(/```/g, "").trim();
+
+    console.log("AI Summary Generated Successfully.");
+    summaryContent = summary;
+  } catch (e: any) {
+    console.error(
+      "An error occurred during Gemini API call for summary:",
+      e.message
+    );
+    summaryContent = Buffer.from(
+      process.env.DEFAULT_SUMMARY_B64 as string,
+      "base64"
+    ).toString("utf-8");
+  }
+  console.log("--- END: Updating Profile Summary ---");
+  return updateReadmeBlock(
+    readmeContent,
+    SUMMARY_START_TAG,
+    SUMMARY_END_TAG,
+    summaryContent
+  );
+}
+
 async function main(): Promise<void> {
   console.log("Starting full README update sequence...");
   let readmeContent = fs.readFileSync(README_FILE_PATH, "utf8");
@@ -290,6 +368,9 @@ async function main(): Promise<void> {
 
   // 3. Run Top Languages update based on github
   readmeContent = await updateTopLanguages(readmeContent);
+
+  // 4. Generate summary based on some inputs
+  readmeContent = await updateSummary(readmeContent);
 
   // 4. Commit logic
   if (readmeContent === originalContent) {

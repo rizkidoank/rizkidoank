@@ -37,6 +37,10 @@ jobs:
         env:
           GH_USERNAME: ${{ vars.GH_USERNAME }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          RESUME_B64: ${{ vars.RESUME_B64 }}
+          PROMPT_B64: ${{ vars.PROMPT_B64 }}
+          DEFAULT_SUMMARY_B64: ${{ vars.DEFAULT_SUMMARY_B64 }}
+
 
       - name: Commit changes if README.md was updated
         uses: stefanzweifel/git-auto-commit-action@v7

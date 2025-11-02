@@ -16,6 +16,7 @@
   },
   "dependencies": {
     "@gitbeaker/rest": "^43.7.0",
+    "@google/genai": "^1.28.0",
     "octokit": "^5.0.4",
     "rss-parser": "^3.13.0"
   }
