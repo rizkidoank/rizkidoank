@@ -27,7 +27,7 @@
 ## Today Quote
 
 <!-- QUOTE START -->
-> "I enjoy life when things are happening. I don't care if it's good things or bad things. That means you're alive." - **Joan Rivers**
+> "To create more positive results in your life, replace 'if only' with 'next time'." - **Celestine Chua**
 <!-- QUOTE END -->
 
 ## Languages Statistics in Github
