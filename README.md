@@ -1,6 +1,6 @@
 ## Profile
 <!-- SUMMARY START -->
-I am a Senior DevOps Engineer with 8+ years of experience designing, migrating, and securing cloud systems on AWS, GCP, and Alicloud. Passionate about cloud-native automation and system optimization, I leverage my expertise in Kubernetes, Terraform, and CI/CD pipelines to drive efficiency and cost reduction. My recent focus includes exploring AI/ML infrastructure and declarative OS management.
+I am a Senior DevOps Engineer with 8+ years of experience specializing in cloud-native automation and system optimization. I excel at designing, migrating, and securing complex cloud architectures on AWS and GCP, leveraging Infrastructure as Code with Terraform and Kubernetes. My passion lies in building resilient, cost-effective, and secure cloud solutions, driving efficiency through CI/CD pipelines and DevSecOps practices. I'm dedicated to continuous learning and sharing knowledge to empower engineering teams.
 <!-- SUMMARY END -->
 
 ## Contact Me
@@ -21,7 +21,7 @@ I am a Senior DevOps Engineer with 8+ years of experience designing, migrating, 
 ## Today Quote
 
 <!-- QUOTE START -->
-> "To create more positive results in your life, replace 'if only' with 'next time'." - **Celestine Chua**
+> "If you do not push the boundaries, you will never know where they are." - **T.S. Eliot**
 <!-- QUOTE END -->
 
 ## Languages Statistics in Github
@@ -30,9 +30,9 @@ I am a Senior DevOps Engineer with 8+ years of experience designing, migrating, 
 <!-- LANG START -->
 |Language|Percentage|
 |---|---|
-| PHP | 78.98% |
-| JavaScript | 7.95% |
-| TypeScript | 3.03% |
+| PHP | 78.86% |
+| JavaScript | 7.94% |
+| TypeScript | 3.17% |
 | HTML | 2.53% |
 | Java | 2.04% |
 | Python | 1.91% |
