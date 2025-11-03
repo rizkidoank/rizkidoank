@@ -1,6 +1,6 @@
 ## Profile
 <!-- SUMMARY START -->
-I am a Senior DevOps Engineer with 8+ years of experience architecting, migrating, and securing cloud-native solutions across AWS, GCP, and Alicloud. I specialize in Kubernetes, Infrastructure as Code (Terraform), CI/CD pipelines, and cost optimization, driven by a passion for cloud-native automation and system resilience. My recent work focuses on declarative OS management with NixOS and building efficient Docker images.
+I am a Senior DevOps Engineer with 8+ years of experience specializing in cloud-native automation and system optimization across AWS, GCP, and Alibaba Cloud. I excel at designing, migrating, and securing complex cloud architectures, with a passion for leveraging Infrastructure as Code and CI/CD pipelines to drive efficiency and reliability. My recent work includes optimizing containerized deployments, enhancing security postures, and building declarative infrastructure management solutions.
 <!-- SUMMARY END -->
 
 ## Contact Me
@@ -21,7 +21,7 @@ I am a Senior DevOps Engineer with 8+ years of experience architecting, migratin
 ## Today Quote
 
 <!-- QUOTE START -->
-> "Normal is the average of deviance." - **Rita Mae Brown**
+> "Follow your heart, listen to your inner voice, stop caring about what others think." - **Roy T. Bennett**
 <!-- QUOTE END -->
 
 ## Languages Statistics in Github
