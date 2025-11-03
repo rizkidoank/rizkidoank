@@ -1,6 +1,6 @@
 ## Profile
 <!-- SUMMARY START -->
-I am a Senior DevOps Engineer with 8+ years of experience specializing in cloud-native automation and system optimization across AWS, GCP, and Alibaba Cloud. I excel at designing, migrating, and securing complex cloud architectures, with a passion for leveraging Infrastructure as Code and CI/CD pipelines to drive efficiency and reliability. My recent work includes optimizing containerized deployments, enhancing security postures, and building declarative infrastructure management solutions.
+I am a Senior DevOps Engineer with 8+ years of experience designing, migrating, and securing cloud systems across AWS, GCP, and Alicloud. I specialize in cloud-native automation, Infrastructure as Code with Terraform and Kubernetes, and driving efficiency through DevSecOps practices. Passionate about building robust, scalable, and cost-effective infrastructure, I leverage my expertise to empower engineering teams and deliver secure, high-performance solutions.
 <!-- SUMMARY END -->
 
 ## Contact Me
@@ -21,7 +21,7 @@ I am a Senior DevOps Engineer with 8+ years of experience specializing in cloud-
 ## Today Quote
 
 <!-- QUOTE START -->
-> "Follow your heart, listen to your inner voice, stop caring about what others think." - **Roy T. Bennett**
+> "Become the kind of leader that people would follow voluntarily, even if you had no title or position." - **Brian Tracy**
 <!-- QUOTE END -->
 
 ## Languages Statistics in Github
