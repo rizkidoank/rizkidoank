@@ -1,6 +1,6 @@
 ## Profile
 <!-- SUMMARY START -->
-I am a Senior DevOps Engineer with 8+ years of experience designing, migrating, and securing cloud systems across AWS, GCP, and Alicloud. I specialize in cloud-native automation, Infrastructure as Code with Terraform and Kubernetes, and driving efficiency through DevSecOps practices. Passionate about building robust, scalable, and cost-effective infrastructure, I leverage my expertise to empower engineering teams and deliver secure, high-performance solutions.
+I am a Senior DevOps Engineer with 8+ years of experience architecting, migrating, and securing cloud-native systems on AWS and GCP. I specialize in building robust CI/CD pipelines, optimizing infrastructure costs, and implementing DevSecOps best practices. My passion lies in enabling cloud-native automation and system optimization, driving efficiency and innovation for technical teams.
 <!-- SUMMARY END -->
 
 ## Contact Me
@@ -21,7 +21,7 @@ I am a Senior DevOps Engineer with 8+ years of experience designing, migrating, 
 ## Today Quote
 
 <!-- QUOTE START -->
-> "Become the kind of leader that people would follow voluntarily, even if you had no title or position." - **Brian Tracy**
+> "Lack of emotion causes lack of progress and lack of motivation." - **Tony Robbins**
 <!-- QUOTE END -->
 
 ## Languages Statistics in Github
