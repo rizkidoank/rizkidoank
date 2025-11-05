@@ -1,6 +1,6 @@
 ## Profile
 <!-- SUMMARY START -->
-I am a Senior DevOps Engineer with 8+ years of experience architecting, migrating, and securing cloud-native systems on AWS and GCP. I specialize in building robust CI/CD pipelines, optimizing infrastructure costs, and implementing DevSecOps best practices. My passion lies in enabling cloud-native automation and system optimization, driving efficiency and innovation for technical teams.
+I am a Senior DevOps Engineer with 8+ years of experience specializing in cloud-native automation and system optimization. I excel in designing, migrating, and securing complex cloud architectures across AWS, GCP, and Alibaba Cloud. My expertise spans Infrastructure as Code (Terraform), Kubernetes, CI/CD pipelines (ArgoCD), and containerization (Docker), with a strong focus on DevSecOps principles and cost reduction. I'm passionate about building resilient, scalable, and efficient systems.
 <!-- SUMMARY END -->
 
 ## Contact Me
@@ -21,7 +21,7 @@ I am a Senior DevOps Engineer with 8+ years of experience architecting, migratin
 ## Today Quote
 
 <!-- QUOTE START -->
-> "Lack of emotion causes lack of progress and lack of motivation." - **Tony Robbins**
+> "Happiness is a choice, not a result. Nothing will make you happy until you choose to be happy." - **Ralph Marston**
 <!-- QUOTE END -->
 
 ## Languages Statistics in Github
