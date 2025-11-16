@@ -1,7 +1,7 @@
 ## Summary
 
 <!-- SUMMARY START -->
-I am a Senior DevOps Engineer with 8+ years of experience architecting, migrating, and securing cloud-native systems across AWS, GCP, and Alicloud. I'm passionate about driving efficiency through Infrastructure as Code, CI/CD automation, and robust observability. My recent work focuses on cloud-native automation and system optimization, leveraging technologies like Kubernetes, Terraform, and OpenTelemetry to build scalable and resilient infrastructure.
+I am a Senior DevOps Engineer with 8+ years of experience specializing in cloud-native automation and system optimization. I excel at designing, migrating, and scaling complex cloud architectures across AWS, GCP, and Alibaba Cloud, leveraging DevSecOps principles. My passion lies in building robust, secure, and cost-efficient infrastructure, with hands-on expertise in Kubernetes, Terraform, CI/CD pipelines, and OpenTelemetry. I'm driven by a commitment to empowering engineering teams and reducing operational overhead through
 <!-- SUMMARY END -->
 
 ## Experience
@@ -128,7 +128,7 @@ Location: Bachelor, Informatics Engineering
 ## Today Quote
 
 <!-- QUOTE START -->
-> "The sun is new each day." - **Heraclitus**
+> "There is nothing like looking if you want to find something." - **J.R.R. Tolkien**
 <!-- QUOTE END -->
 
 ## Languages Statistics in Github
