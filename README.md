@@ -1,7 +1,7 @@
 ## Summary
 
 <!-- SUMMARY START -->
-I am a Senior DevOps Engineer with 8+ years of experience specializing in cloud-native automation and system optimization. I excel at designing, migrating, and scaling complex cloud architectures across AWS, GCP, and Alibaba Cloud, leveraging DevSecOps principles. My passion lies in building robust, secure, and cost-efficient infrastructure, with hands-on expertise in Kubernetes, Terraform, CI/CD pipelines, and OpenTelemetry. I'm driven by a commitment to empowering engineering teams and reducing operational overhead through
+I am a Senior DevOps Engineer with 8+ years of experience architecting, migrating, and securing cloud-native systems. I specialize in AWS, GCP, and Alicloud, with a strong focus on Infrastructure as Code (Terraform, ArgoCD), containerization (Kubernetes, Docker), and CI/CD pipelines. My passion lies in driving efficiency and reliability through cloud automation and system optimization, as evidenced by my exploration of AI/ML homelabs and declarative OS management.
 <!-- SUMMARY END -->
 
 ## Experience
@@ -128,7 +128,7 @@ Location: Bachelor, Informatics Engineering
 ## Today Quote
 
 <!-- QUOTE START -->
-> "There is nothing like looking if you want to find something." - **J.R.R. Tolkien**
+> "Fishing is much more than fish." - **Herbert Hoover**
 <!-- QUOTE END -->
 
 ## Languages Statistics in Github
@@ -137,13 +137,13 @@ Location: Bachelor, Informatics Engineering
 <!-- LANG START -->
 |Language|Percentage|
 |---|---|
-| PHP | 78.86% |
-| JavaScript | 7.94% |
+| PHP | 78.96% |
+| JavaScript | 7.95% |
 | TypeScript | 3.17% |
-| HTML | 2.53% |
+| HTML | 2.45% |
 | Java | 2.04% |
 | Python | 1.91% |
-| Nix | 1.81% |
+| Nix | 1.77% |
 | TeX | 0.75% |
 | C++ | 0.72% |
 | HCL | 0.09% |
