@@ -1,7 +1,7 @@
 ## Summary
 
 <!-- SUMMARY START -->
-I am a Senior DevOps Engineer with 8+ years of experience architecting, migrating, and securing cloud-native systems on AWS, GCP, and Alicloud. I'm passionate about driving efficiency through Infrastructure as Code and CI/CD automation, with a focus on cloud-native solutions and system optimization. My recent work explores declarative OS management and building robust Docker images for scalable deployments.
+I am a Senior DevOps Engineer with 8+ years of experience architecting, migrating, and securing cloud-native systems across AWS, GCP, and Alicloud. I specialize in driving efficiency and reliability through Infrastructure as Code, Kubernetes, CI/CD pipelines, and robust security practices. My passion lies in building scalable, cost-effective cloud solutions and empowering teams with automation and best practices, as explored in my work on declarative OS management and AI/ML infrastructure.
 <!-- SUMMARY END -->
 
 ## Experience
@@ -128,7 +128,7 @@ Location: Bachelor, Informatics Engineering
 ## Today Quote
 
 <!-- QUOTE START -->
-> "The act of taking the first step is what separates the winners from the losers." - **Brian Tracy**
+> "You give but little when you give of your possessions. It is when you give of yourself that you truly give." - **Kahlil Gibran**
 <!-- QUOTE END -->
 
 ## Languages Statistics in Github
