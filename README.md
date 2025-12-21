@@ -1,7 +1,7 @@
 ## Summary
 
 <!-- SUMMARY START -->
-I am a Senior DevOps Engineer with 8+ years of experience architecting, migrating, and securing cloud-native systems across AWS, GCP, and Alicloud. I specialize in driving efficiency and reliability through Infrastructure as Code, Kubernetes, CI/CD pipelines, and robust security practices. My passion lies in building scalable, cost-effective cloud solutions and empowering teams with automation and best practices, as explored in my work on declarative OS management and AI/ML infrastructure.
+I am a Senior DevOps Engineer passionate about building and securing robust cloud-native solutions. With 8+ years of experience, I specialize in multi-cloud environments (AWS, GCP, Alicloud), Infrastructure as Code, CI/CD pipelines, and containerization. My recent focus includes exploring AI/ML infrastructure and declarative OS management, driving efficiency and innovation through automation.
 <!-- SUMMARY END -->
 
 ## Experience
@@ -128,7 +128,7 @@ Location: Bachelor, Informatics Engineering
 ## Today Quote
 
 <!-- QUOTE START -->
-> "You give but little when you give of your possessions. It is when you give of yourself that you truly give." - **Kahlil Gibran**
+> "When you view failure as feedback, you get more done. When you view failure as a finality, you get nothing done." - **Jack Butcher**
 <!-- QUOTE END -->
 
 ## Languages Statistics in Github
