@@ -1,7 +1,7 @@
 ## Summary
 
 <!-- SUMMARY START -->
-I am a Senior DevOps Engineer passionate about building and securing robust cloud-native solutions. With 8+ years of experience, I specialize in multi-cloud environments (AWS, GCP, Alicloud), Infrastructure as Code, CI/CD pipelines, and containerization. My recent focus includes exploring AI/ML infrastructure and declarative OS management, driving efficiency and innovation through automation.
+I am a Senior DevOps Engineer with 8+ years of experience driving cloud-native automation and system optimization. I specialize in designing, migrating, and securing complex cloud architectures across AWS, GCP, and Alicloud. My passion lies in building robust, scalable, and cost-effective infrastructure, leveraging technologies like Kubernetes, Terraform, and CI/CD pipelines to empower engineering teams and ensure operational excellence.
 <!-- SUMMARY END -->
 
 ## Experience
@@ -128,7 +128,7 @@ Location: Bachelor, Informatics Engineering
 ## Today Quote
 
 <!-- QUOTE START -->
-> "When you view failure as feedback, you get more done. When you view failure as a finality, you get nothing done." - **Jack Butcher**
+> "The first thing you learn in life is you're a fool. The last thing you learn in life is you're the same fool.  " - **Ray Bradbury**
 <!-- QUOTE END -->
 
 ## Languages Statistics in Github
