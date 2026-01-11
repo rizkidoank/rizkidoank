@@ -1,7 +1,7 @@
 ## Summary
 
 <!-- SUMMARY START -->
-I am a Senior DevOps Engineer with 8+ years of experience specializing in cloud-native automation and system optimization. I excel in designing, migrating, and scaling complex infrastructures across AWS, GCP, and Alicloud, with a strong focus on DevSecOps best practices. My expertise includes Kubernetes, Infrastructure as Code with Terraform, CI/CD pipelines, and containerization. I'm passionate about building resilient, cost-effective, and secure cloud solutions.
+I am a Senior DevOps Engineer with 8+ years of experience specializing in cloud-native automation and system optimization. I excel in designing, migrating, and securing complex cloud architectures across AWS, GCP, and Alicloud. My passion lies in building robust, scalable, and cost-effective solutions, leveraging technologies like Kubernetes, Terraform, and CI/CD pipelines to empower engineering teams and drive operational excellence.
 <!-- SUMMARY END -->
 
 ## Experience
@@ -128,7 +128,7 @@ Location: Bachelor, Informatics Engineering
 ## Today Quote
 
 <!-- QUOTE START -->
-> "A wise man makes his own decisions, but an ignorant man mindlessly follows the crowd." - **Chinese Proverb**
+> "Everything is in your own heart." - **Thich Nhat Hanh**
 <!-- QUOTE END -->
 
 ## Languages Statistics in Github
