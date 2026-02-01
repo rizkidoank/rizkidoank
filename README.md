@@ -1,7 +1,7 @@
 ## Summary
 
 <!-- SUMMARY START -->
-I am a Senior DevOps Engineer with 8+ years of experience driving cloud-native automation and system optimization across AWS, GCP, and Alicloud. I specialize in designing, migrating, and securing complex cloud architectures, with a passion for building robust Infrastructure as Code and CI/CD pipelines. My recent work focuses on leveraging technologies like Kubernetes, Terraform, and OpenTelemetry to enhance performance, reduce costs, and empower engineering teams with self-service capabilities.
+I am a Senior DevOps Engineer with 8+ years of experience architecting, migrating, and securing cloud-native solutions across AWS, GCP, and Alicloud. My passion lies in driving efficiency and innovation through robust infrastructure-as-code, CI/CD automation, and declarative system management, as evidenced by my work in building homelabs for AI/MLOps and optimizing cloud deployments. I'm dedicated to building scalable, secure, and cost-effective cloud platforms.
 <!-- SUMMARY END -->
 
 ## Experience
@@ -128,7 +128,7 @@ Location: Bachelor, Informatics Engineering
 ## Today Quote
 
 <!-- QUOTE START -->
-> "Every moment you get is a gift. Spend it on things that matter. Don't spend it by dwelling on unhappy things." - **Celestine Chua**
+> "Tension is who you think you should be. Relaxation is who you are." - **Chinese Proverb**
 <!-- QUOTE END -->
 
 ## Languages Statistics in Github
