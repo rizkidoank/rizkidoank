@@ -1,7 +1,7 @@
 ## Summary
 
 <!-- SUMMARY START -->
-I am a Senior DevOps Engineer with 8+ years of experience architecting, migrating, and securing cloud-native systems across AWS, GCP, and Alibaba Cloud. My passion lies in driving cloud-native automation and system optimization, evident in my work with Kubernetes, ArgoCD, and Infrastructure as Code. I leverage my expertise to build efficient, scalable, and secure cloud solutions, continuously seeking to improve operational workflows and reduce costs.
+I am a Senior DevOps Engineer with 8+ years of experience architecting, migrating, and securing cloud-native systems across AWS, GCP, and Alicloud. My passion lies in driving cloud-native automation and system optimization, as evidenced by my work in CI/CD pipelines, Infrastructure as Code with Terraform, and containerization. I'm dedicated to building resilient, cost-effective, and secure cloud infrastructures that empower engineering teams.
 <!-- SUMMARY END -->
 
 ## Experience
@@ -128,7 +128,7 @@ Location: Bachelor, Informatics Engineering
 ## Today Quote
 
 <!-- QUOTE START -->
-> "What people need and what they want may be very different." - **Elbert Hubbard**
+> "Be the silent watcher of your thoughts and behavior. You are beneath the thinker." - **Eckhart Tolle**
 <!-- QUOTE END -->
 
 ## Languages Statistics in Github
