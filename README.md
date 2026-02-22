@@ -1,7 +1,7 @@
 ## Summary
 
 <!-- SUMMARY START -->
-I am a Senior DevOps Engineer with 8+ years of experience architecting, migrating, and securing cloud-native systems across AWS, GCP, and Alicloud. My passion lies in driving cloud-native automation and system optimization, as evidenced by my work in CI/CD pipelines, Infrastructure as Code with Terraform, and containerization. I'm dedicated to building resilient, cost-effective, and secure cloud infrastructures that empower engineering teams.
+I am a Senior DevOps Engineer with 8+ years of experience specializing in cloud-native automation and system optimization across AWS, GCP, and Alicloud. I'm passionate about building scalable, secure, and cost-effective infrastructure, leveraging Infrastructure as Code, CI/CD pipelines, and containerization. My recent work focuses on AI/ML infrastructure and declarative OS management.
 <!-- SUMMARY END -->
 
 ## Experience
@@ -128,7 +128,7 @@ Location: Bachelor, Informatics Engineering
 ## Today Quote
 
 <!-- QUOTE START -->
-> "Be the silent watcher of your thoughts and behavior. You are beneath the thinker." - **Eckhart Tolle**
+> "You must conceive it in your heart and mind before you can receive it. If you believe then all things are possible." - **Norman Vincent Peale**
 <!-- QUOTE END -->
 
 ## Languages Statistics in Github
