@@ -1,7 +1,7 @@
 ## Summary
 
 <!-- SUMMARY START -->
-I am a Senior DevOps Engineer with 8+ years of experience specializing in cloud-native automation and system optimization across AWS, GCP, and Alicloud. I'm passionate about building scalable, secure, and cost-effective infrastructure, leveraging Infrastructure as Code, CI/CD pipelines, and containerization. My recent work focuses on AI/ML infrastructure and declarative OS management.
+I am a Senior DevOps Engineer with 8+ years of experience in cloud architecture, migration, and security across AWS, GCP, and Alicloud. I'm passionate about driving cloud-native automation and system optimization, as evidenced by my work on CI/CD pipelines, Kubernetes infrastructure, and declarative OS management. My recent focus on AI/ML homelabs and NixOS reflects my commitment to continuous learning and efficient infrastructure.
 <!-- SUMMARY END -->
 
 ## Experience
@@ -128,7 +128,7 @@ Location: Bachelor, Informatics Engineering
 ## Today Quote
 
 <!-- QUOTE START -->
-> "You must conceive it in your heart and mind before you can receive it. If you believe then all things are possible." - **Norman Vincent Peale**
+> "Your task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it." - **Rumi**
 <!-- QUOTE END -->
 
 ## Languages Statistics in Github
