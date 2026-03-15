@@ -1,7 +1,7 @@
 ## Summary
 
 <!-- SUMMARY START -->
-I am a Senior DevOps Engineer with 8+ years of experience architecting, migrating, and securing cloud-native solutions across AWS, GCP, and Alicloud. My passion lies in driving cloud-native automation and system optimization, as evidenced by my work with Kubernetes, ArgoCD, Terraform, and OpenTelemetry. I'm dedicated to building resilient, cost-effective, and secure infrastructure that empowers engineering teams.
+I am a Senior DevOps Engineer with 8+ years of experience architecting, migrating, and securing cloud-native solutions across AWS, GCP, and Alicloud. I'm passionate about driving efficiency and reliability through Infrastructure as Code, CI/CD automation, and robust observability. My recent work focuses on cloud-native automation, system optimization, and building declarative infrastructure, as explored in my blog posts on topics like NixOS and homelab setups.
 <!-- SUMMARY END -->
 
 ## Experience
@@ -128,7 +128,7 @@ Location: Bachelor, Informatics Engineering
 ## Today Quote
 
 <!-- QUOTE START -->
-> "Here and now...breathe and relax...in battle and in life." - **Dan Millman**
+> "Love and compassion are necessities, not luxuries. Without them, humanity cannot survive." - **Dalai Lama**
 <!-- QUOTE END -->
 
 ## Languages Statistics in Github
