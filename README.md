@@ -1,7 +1,7 @@
 ## Summary
 
 <!-- SUMMARY START -->
-I am a Senior DevOps Engineer with 8+ years of experience architecting, migrating, and securing cloud-native solutions across AWS, GCP, and Alicloud. I'm passionate about driving efficiency and reliability through Infrastructure as Code, CI/CD automation, and robust observability. My recent work focuses on cloud-native automation, system optimization, and building declarative infrastructure, as explored in my blog posts on topics like NixOS and homelab setups.
+I am a Senior DevOps Engineer with 8+ years of experience in cloud architecture, migration, and security across AWS, GCP, and Alicloud. I'm passionate about cloud-native automation and system optimization, leveraging technologies like Kubernetes, Terraform, and CI/CD pipelines. My recent work focuses on building robust infrastructure, enhancing deployment strategies, and reducing costs, as reflected in my exploration of homelabs and declarative OS management.
 <!-- SUMMARY END -->
 
 ## Experience
@@ -128,7 +128,7 @@ Location: Bachelor, Informatics Engineering
 ## Today Quote
 
 <!-- QUOTE START -->
-> "Love and compassion are necessities, not luxuries. Without them, humanity cannot survive." - **Dalai Lama**
+> "No tree, it is said, can grow to heaven unless its roots reach down to hell." - **Carl Jung**
 <!-- QUOTE END -->
 
 ## Languages Statistics in Github
