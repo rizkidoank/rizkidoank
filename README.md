@@ -1,7 +1,7 @@
 ## Summary
 
 <!-- SUMMARY START -->
-I am a Senior DevOps Engineer with over 8 years of experience architecting, migrating, and securing cloud-native systems. My passion lies in driving cloud-native automation and system optimization, leveraging expertise in AWS, GCP, Kubernetes, Terraform, and CI/CD pipelines. I thrive on building robust, scalable, and cost-effective infrastructure solutions that empower engineering teams and deliver tangible business value.
+I am a Senior DevOps Engineer with 8+ years of experience in cloud architecture, migration, and security across AWS, GCP, and Alicloud. My passion lies in driving cloud-native automation and system optimization, evident in my work with Kubernetes, CI/CD pipelines, and Infrastructure as Code. I'm dedicated to building resilient, cost-effective, and secure cloud environments.
 <!-- SUMMARY END -->
 
 ## Experience
@@ -128,7 +128,7 @@ Location: Bachelor, Informatics Engineering
 ## Today Quote
 
 <!-- QUOTE START -->
-> "Having an open mind is one of the most important qualities we can possess. Once our minds close, we stop evolving." - **Yanni**
+> "The goal is not to be perfect by the end, the goal is to be better today." - **Simon Sinek**
 <!-- QUOTE END -->
 
 ## Languages Statistics in Github
