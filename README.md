@@ -1,7 +1,7 @@
 ## Summary
 
 <!-- SUMMARY START -->
-I am a Senior DevOps Engineer with 8+ years of experience in cloud architecture, migration, and security across AWS, GCP, and Alicloud. My passion lies in driving cloud-native automation and system optimization, evident in my work with Kubernetes, CI/CD pipelines, and Infrastructure as Code. I'm dedicated to building resilient, cost-effective, and secure cloud environments.
+As a Senior DevOps Engineer with 8+ years of experience, I specialize in cloud-native automation and system optimization across AWS, GCP, and Alicloud. I'm passionate about building robust, scalable, and secure infrastructure, leveraging technologies like Kubernetes, Terraform, and CI/CD pipelines. My recent work focuses on enhancing operational efficiency and driving cost reductions through innovative cloud solutions.
 <!-- SUMMARY END -->
 
 ## Experience
@@ -128,7 +128,7 @@ Location: Bachelor, Informatics Engineering
 ## Today Quote
 
 <!-- QUOTE START -->
-> "The goal is not to be perfect by the end, the goal is to be better today." - **Simon Sinek**
+> "Go as far as you can see and you will see further.  " - **Zig Ziglar**
 <!-- QUOTE END -->
 
 ## Languages Statistics in Github
