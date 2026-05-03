@@ -1,7 +1,7 @@
 ## Summary
 
 <!-- SUMMARY START -->
-I am a Senior DevOps Engineer with over 8 years of experience architecting, migrating, and securing cloud-native solutions across AWS, GCP, and Alicloud. My passion lies in driving cloud-native automation and system optimization, evidenced by my work in CI/CD pipelines, Infrastructure as Code with Terraform and ArgoCD, and containerization with Kubernetes. I'm dedicated to building resilient, cost-effective, and secure infrastructure that empowers engineering teams.
+I am a Senior DevOps Engineer with 8+ years of experience in cloud architecture, migration, and security across AWS, GCP, and Alicloud. My passion lies in building robust, cost-effective, and secure cloud-native automation. I leverage my expertise in Infrastructure as Code, Kubernetes, CI/CD pipelines, and observability tools to drive efficiency and enable seamless deployments, as reflected in my work with technologies like Terraform, Docker, and OpenTelemetry.
 <!-- SUMMARY END -->
 
 ## Experience
@@ -128,7 +128,7 @@ Location: Bachelor, Informatics Engineering
 ## Today Quote
 
 <!-- QUOTE START -->
-> "Love is merely the name for the desire and pursuit of the whole." - **Aristophanes**
+> "Be confident, not certain." - **Eleanor Roosevelt**
 <!-- QUOTE END -->
 
 ## Languages Statistics in Github
