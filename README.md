@@ -1,7 +1,7 @@
 ## Summary
 
 <!-- SUMMARY START -->
-I am a Senior DevOps Engineer with 8+ years of experience specializing in cloud-native automation and system optimization across AWS, GCP, and Alibaba Cloud. I excel at designing, migrating, and securing complex cloud architectures, with a passion for building efficient CI/CD pipelines and driving cost reductions. My recent work focuses on leveraging Infrastructure as Code and declarative approaches to enhance operational agility and resilience.
+I am a Senior DevOps Engineer passionate about building and scaling robust cloud-native systems. With 8+ years of experience across AWS, GCP, and Alicloud, I specialize in cloud architecture, migration, and DevSecOps. My recent work focuses on declarative OS management, CI/CD automation, and optimizing infrastructure for AI/ML workloads. I thrive on delivering efficient, secure, and cost-effective solutions.
 <!-- SUMMARY END -->
 
 ## Experience
@@ -128,7 +128,7 @@ Location: Bachelor, Informatics Engineering
 ## Today Quote
 
 <!-- QUOTE START -->
-> "To be totally at leisure for one day is to be immortal for one day. " - **Chinese Proverb**
+> "The fact of the matter is that there will be nothing learned from any challenge in which we don't try our hardest." - **Josh Waitzkin**
 <!-- QUOTE END -->
 
 ## Languages Statistics in Github
