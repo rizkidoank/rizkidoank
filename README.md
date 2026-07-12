@@ -1,7 +1,7 @@
 ## Summary
 
 <!-- SUMMARY START -->
-I am a Senior DevOps Engineer with 8+ years of experience architecting, migrating, and securing cloud-native solutions across AWS, GCP, and Alibaba Cloud. My passion lies in cloud-native automation and system optimization, evident in my work with Kubernetes, Terraform, and CI/CD pipelines. I thrive on building resilient, cost-effective infrastructure and sharing knowledge to empower teams.
+I am a Senior DevOps Engineer with 8+ years of experience specializing in cloud-native automation and system optimization across AWS, GCP, and Alicloud. My passion lies in designing, migrating, and securing complex cloud architectures, with a focus on Infrastructure as Code, CI/CD pipelines, and cost reduction. I thrive on building robust, scalable, and secure solutions that empower engineering teams and drive operational efficiency.
 <!-- SUMMARY END -->
 
 ## Experience
@@ -128,7 +128,7 @@ Location: Bachelor, Informatics Engineering
 ## Today Quote
 
 <!-- QUOTE START -->
-> "Life is the art of drawing sufficient conclusions from insufficient premises." - **Samuel Butler**
+> "The primary cause of unhappiness is never the situation but your thoughts about it." - **Eckhart Tolle**
 <!-- QUOTE END -->
 
 ## Languages Statistics in Github
