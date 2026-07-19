@@ -1,7 +1,8 @@
 ## Summary
 
 <!-- SUMMARY START -->
-I am a Senior DevOps Engineer with 8+ years of experience specializing in cloud-native automation and system optimization across AWS, GCP, and Alicloud. My passion lies in designing, migrating, and securing complex cloud architectures, with a focus on Infrastructure as Code, CI/CD pipelines, and cost reduction. I thrive on building robust, scalable, and secure solutions that empower engineering teams and drive operational efficiency.
+Experienced Senior DevOps Engineer specializing in cloud-native solutions, security, and Python automation. Passionately building reproducible infrastructure for global scale.
+
 <!-- SUMMARY END -->
 
 ## Experience
@@ -128,7 +129,7 @@ Location: Bachelor, Informatics Engineering
 ## Today Quote
 
 <!-- QUOTE START -->
-> "The primary cause of unhappiness is never the situation but your thoughts about it." - **Eckhart Tolle**
+> "Don't be afraid to give up the good to go for the great." - **John D. Rockefeller**
 <!-- QUOTE END -->
 
 ## Languages Statistics in Github
