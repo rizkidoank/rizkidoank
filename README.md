@@ -129,7 +129,7 @@ Location: Bachelor, Informatics Engineering
 ## Today Quote
 
 <!-- QUOTE START -->
-> "Success usually comes to those who are too busy to be looking for it." - **Colin R. Davis**
+> "What the mind can conceive and believe, and the heart desire, you can achieve." - **Norman Vincent Peale**
 <!-- QUOTE END -->
 
 ## Languages Statistics in Github
